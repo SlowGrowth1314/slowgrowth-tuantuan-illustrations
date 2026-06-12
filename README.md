@@ -113,8 +113,8 @@ Tuantuan Illustrations 是一个 Codex Skill，用来指导 AI Agent 为中文�
 克隆仓库：
 
 ```bash
-git clone https://github.com/xuzongxin/tuantuan-illustrations.git
-cd tuantuan-illustrations
+git clone https://github.com/SlowGrowth1314/slowgrowth-tuantuan-illustrations.git
+cd slowgrowth-tuantuan-illustrations
 ```
 
 复制 skill 到 Codex skills 目录：
